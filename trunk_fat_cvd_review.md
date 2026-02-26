@@ -2,14 +2,14 @@
 
 ## 综述段落
 
-大量流行病学研究表明，躯干脂肪（尤其是内脏脂肪组织，visceral adipose tissue，VAT）与心血管疾病的发生发展存在独立且直接的关联。Yusuf等人开展的大型病例对照研究（INTERHEART研究，n > 27,000）发现，腰臀比（waist-to-hip ratio，WHR）——反映腹部/躯干脂肪分布的指标——是心肌梗死（MI）最强的可改变风险因素之一，其预测价值优于体质指数（BMI），提示脂肪分布而非总体脂量更直接影响心血管风险（Yusuf et al., *Lancet*, 2005）[^1]。在机制层面，Framingham心脏研究通过CT定量分析发现，腹部内脏脂肪体积与冠状动脉钙化（coronary artery calcification，CAC）、动脉粥样硬化性心血管事件显著正相关，而皮下脂肪与上述指标的关联则相对较弱（Fox et al., *Circulation*, 2007）[^2]。进一步地，Neeland等人在综合多项队列研究后指出，内脏脂肪及异位脂肪（ectopic fat）通过促进慢性炎症（升高IL-6、TNF-α、CRP等）、胰岛素抵抗、脂质代谢紊乱（高甘油三酯、低HDL-C）以及肾素-血管紧张素系统激活等途径，直接加速动脉粥样硬化进程并增加主要不良心血管事件（MACE）风险（Neeland et al., *Lancet Diabetes Endocrinol*, 2019）[^3]。此外，MESA（Multi-Ethnic Study of Atherosclerosis）研究证实，即使在控制代谢综合征组分后，以CT测定的躯干/腹部内脏脂肪面积仍是CVD事件的独立预测因子，提示躯干脂肪对心血管系统的直接危害不依赖于传统代谢风险因素的完全介导（Ding et al., *J Am Coll Cardiol*, 2009）[^4]。综上，躯干脂肪特别是内脏脂肪的蓄积，是CVD的独立危险因素，其与心血管疾病的直接关联已获得来自流行病学、影像学及分子机制研究的多层次证据支持。
+以双能X线吸收法（dual-energy X-ray absorptiometry，DXA）直接测量区域体脂的前瞻性研究提供了躯干脂肪与心血管疾病直接关联的关键证据。Britton等基于Framingham后代研究队列（n = 3,235，随访约11年）发现，DXA测定的躯干脂肪量与心血管事件发生风险显著正相关，校正传统心血管危险因素后关联依然稳健，而下肢脂肪则表现出相反的保护趋势，提示脂肪沉积的区域特异性决定其心血管危害（Britton et al., *J Am Coll Cardiol*, 2013）[^1]。在老年女性人群中，Tankó等同样使用DXA测量躯干与外周脂肪，发现躯干脂肪量与颈动脉内中膜厚度（cIMT）和动脉粥样硬化程度独立正相关，是亚临床心血管病变的独立预测因子（Tankó et al., *Circulation*, 2003）[^2]。从大样本流行病学视角出发，EPIC-Norfolk队列研究（n > 24,500）以腰围作为躯干中央区脂肪蓄积的替代指标，发现其与冠心病发病风险独立相关，且该关联在控制BMI后仍显著，进一步支持躯干部位脂肪（而非全身性肥胖）对心血管结局的直接影响（Canoy et al., *Circulation*, 2007）[^3]。de Koning等对11项前瞻性研究的荟萃分析（累计n > 260,000）亦显示，反映躯干/腹部脂肪分布的腰围和腰臀比均能独立预测CVD事件，相较于仅衡量总体脂量的BMI具有更强的预测效力（de Koning et al., *Eur Heart J*, 2007）[^4]。综上，无论采用DXA直接测量还是腰围等形态学替代指标，躯干区域脂肪蓄积均与心血管疾病的发生风险存在直接、独立的正向关联。
 
 ## 参考文献
 
-[^1]: Yusuf S, Hawken S, Ôunpuu S, et al. Obesity and the risk of myocardial infarction in 27 000 participants from 52 countries: a case-control study. *Lancet*. 2005;366(9497):1640-1649. doi:10.1016/S0140-6736(05)67663-5
+[^1]: Britton KA, Massaro JM, Murabito JM, et al. Body fat distribution, incident cardiovascular disease, cancer, and all-cause mortality. *J Am Coll Cardiol*. 2013;62(10):921-925. doi:10.1016/j.jacc.2013.06.014
 
-[^2]: Fox CS, Massaro JM, Hoffmann U, et al. Abdominal visceral and subcutaneous adipose tissue compartments: association with metabolic risk factors in the Framingham Heart Study. *Circulation*. 2007;116(1):39-48. doi:10.1161/CIRCULATIONAHA.106.675355
+[^2]: Tankó LB, Bagger YZ, Alexandersen P, et al. Peripheral adiposity exhibits an independent dominant antiatherogenic effect in elderly women. *Circulation*. 2003;107(12):1626-1631. PMID: 12668500
 
-[^3]: Neeland IJ, Ross R, Després JP, et al. Visceral and ectopic fat, atherosclerosis, and cardiometabolic disease: a position statement. *Lancet Diabetes Endocrinol*. 2019;7(9):715-725. doi:10.1016/S2213-8587(19)30084-1
+[^3]: Canoy D, Boekholdt SM, Wareham N, et al. Body fat distribution and risk of coronary heart disease in men and women in the European Prospective Investigation Into Cancer and Nutrition in Norfolk cohort. *Circulation*. 2007;116(25):2933-2943. doi:10.1161/CIRCULATIONAHA.106.673756
 
-[^4]: Ding J, Kritchevsky SB, Harris TB, et al. The association of pericardial fat with incident coronary heart disease: the Multi-Ethnic Study of Atherosclerosis (MESA). *J Am Coll Cardiol*. 2008;51(2):139-145. doi:10.1016/j.jacc.2007.09.045
+[^4]: de Koning L, Merchant AT, Pogue J, Anand SS. Waist circumference and waist-to-hip ratio as predictors of cardiovascular events: meta-analysis of prospective studies. *Eur Heart J*. 2007;28(7):850-856. doi:10.1093/eurheartj/ehm026
